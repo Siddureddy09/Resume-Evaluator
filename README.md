@@ -55,7 +55,7 @@ A custom AI model analyzes your resume and the provided job description, giving 
 
 > ⚠️ **Prerequisite:** Ensure [Ollama](https://ollama.com/) is installed on your system.
 
-1. Clone the repository:
+1. Clone the repository :
 
     ```bash
     git clone https://github.com/Avire-K/Resume-Evaluator.git
